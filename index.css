@@ -2,8 +2,11 @@ body{
     text-align: center;
 }
 
-div {
+.div1 {
     background-color: khaki;
     padding: 50px;
 }
 
+.div2 {
+
+}
