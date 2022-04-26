@@ -6,13 +6,12 @@ header{
 
 body{
     text-align: center;
-    margin: 50%;
     background-image: image(https://www.tilingtextures.com/wp-content/uploads/2017/03/0015-512x512.jpg);
 }
 
 .div1 {
     background-color: khaki;
-    padding: 50px;
+    padding: 0px 0px 100px 100px;
 }
 
 .div2 {
