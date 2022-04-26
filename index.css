@@ -1,6 +1,7 @@
 
 header{
     background-color: olivedrab;
+    color: aliceblue;
 }
 
 body{
@@ -14,6 +15,8 @@ body{
 
 .div2 {
     background-color: darkslategray;
+    color: aliceblue;
     text-size-adjust: 500%;
+
 }
 
