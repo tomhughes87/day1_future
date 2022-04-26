@@ -6,7 +6,9 @@ header{
 
 body{
     text-align: center;
+    background-color: black;
     background-image: image(https://www.tilingtextures.com/wp-content/uploads/2017/03/0015-512x512.jpg);
+    
 }
 
 .div1 {
