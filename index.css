@@ -1,3 +1,8 @@
+
+header{
+    background-color: olivedrab;
+}
+
 body{
     text-align: center;
 }
@@ -8,5 +13,6 @@ body{
 }
 
 .div2 {
-
+    background-color: darkslategray;
+    text-size-adjust: 200%;
 }
