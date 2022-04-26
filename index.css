@@ -1,5 +1,8 @@
 body{
     text-align: center;
+}
+
+div {
     background-color: khaki;
     padding: 50px;
 }
